@@ -1,43 +1,61 @@
-<h1 align="center">Hey I am Zekarias 👋</h1>
+<h1 align="center">Hey, I’m Zekarias 👋</h1>
 
 <p align="center">
-Part Time Student Software Engineer at John Deere • CS and Bioinformatics at Augustana College • I love building useful AI for health care
+💻 Part-Time Student Software Engineer @ John Deere • 📚 CS & Bioinformatics @ Augustana College • ❤️ Building AI that makes healthcare smarter
 </p>
 
-## About me
-* I build data driven apps that real people use. At John Deere I help ship internal tools used by thousands across many factories
-* I enjoy the intersection of software and biology from genomics to clinical data workflows
-* Outside of code I watch Premier League play chess and pool and enjoy video games
+---
 
-## What I am building
-* **PlanIt** A smart academic planner that creates personalized multi year course plans with AI and real program rules  
-* **LinkPilot AI** A tool that drafts and posts professional updates to LinkedIn with safe automation  
-* **Private AI gateway chatbot** Secure tool routing with LangGraph and natural language to SQL for analytics
+## 👨‍💻 About Me
+I like turning ideas into real, working products that help people.  
+At John Deere, I help ship internal tools that thousands of employees rely on daily.  
+My sweet spot is where **software meets biology**—whether that’s genomics, bioinformatics, or clinical data workflows.
 
-## Skills I use often
-* **Languages**  
-  `TypeScript` `JavaScript` `Python` `SQL` `Java`
-* **Frameworks and Libraries**  
-  `React` `Next.js` `Node.js` `Express` `MUI` `LangChain` `LangGraph`
-* **Data and Cloud**  
-  `PostgreSQL` `MongoDB` `Supabase` `AWS`
-* **DevOps and Quality**  
-  `Docker` `Kubernetes` `GitHub Actions` `CI CD` `Testing`
+When I’m not coding, you can find me:
+- Following the Premier League
+- Playing chess or pool
+- Getting competitive in video games
 
-## Highlights
-* Shipped features for internal apps serving more than six thousand users  
-* Designed and deployed services that improved reliability and developer experience  
-* Research experience in biochemistry including work with Yarrowia lipolytica and cellular metabolism
+---
 
-## I am looking to
-* Build AI products that are useful in health tech and education  
-* Collaborate on open source  
-* Mentor and learn from great teams
+## 🚀 What I’m Building
+- **PlanIt** – AI-powered academic planner that maps out multi-year course schedules using real program rules  
+- **LinkPilot AI** – Smart LinkedIn post generator with safe automation for professionals  
+- **Private AI Gateway Chatbot** – Secure LangGraph-based tool router with natural language to SQL for data analytics
 
-## Connect
-* Personal site  
-  https://www.zekariasasaminew.com
-* Email  
-  zekariassolomon1122@gmail.com
+---
+
+## 🛠 Tech I Use a Lot
+**Languages**  
+`TypeScript` `JavaScript` `Python` `SQL` `Java`
+
+**Frameworks & Libraries**  
+`React` `Next.js` `Node.js` `Express` `MUI` `LangChain` `LangGraph`
+
+**Data & Cloud**  
+`PostgreSQL` `MongoDB` `Supabase` `AWS`
+
+**DevOps & Quality**  
+`Docker` `Kubernetes` `GitHub Actions` `CI/CD` `Testing`
+
+---
+
+## 🌟 Highlights
+- Delivered features for internal apps used by **6,000+ people across multiple factories**  
+- Built and deployed services that boosted reliability and improved developer workflows  
+- Contributed to biochemistry research on *Yarrowia lipolytica* and cellular metabolism
+
+---
+
+## 🎯 Currently Looking To
+- Build AI products that improve healthcare and education  
+- Collaborate on impactful open-source projects  
+- Learn from and mentor in great engineering teams
+
+---
+
+## 📬 Let’s Connect
+- 🌐 [zekariasasaminew.com](https://www.zekariasasaminew.com)  
+- 📧 zekariassolomon1122@gmail.com  
 
 Thanks for stopping by ✨
