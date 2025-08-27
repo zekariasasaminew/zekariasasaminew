@@ -17,10 +17,7 @@ When I’m not coding:
 ---
 
 ## 🛠 Tech Stack
-`TypeScript` `JavaScript` `Python` `SQL` `Java`  
-`React` `Next.js` `Node.js` `Express` `MUI`  
-`PostgreSQL` `MongoDB` `Supabase` `AWS`  
-`Docker` `Kubernetes` `GitHub Actions` `CI/CD`
+`TypeScript` `JavaScript` `Python` `SQL` `Java` `React` `Next.js` `Node.js` `Express` `MUI` `PostgreSQL` `MongoDB` `Supabase` `AWS` `Docker` `Kubernetes` `GitHub Actions` `CI/CD`
 
 ---
 
