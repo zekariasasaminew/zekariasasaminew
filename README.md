@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I’m Zekarias 👋</h1>
 
 <p align="center">
-💻 Part-Time Student Software Engineer @ John Deere • 🎓 Self-Designed CS & Bioinformatics Major @ Augustana College • ⚡ Building AI that matters
+💻 Software Engineer @ John Deere • 🎓 Self-Designed CS & Bioinformatics Major @ Augustana College • ⚡ Building AI that matters
 </p>
 
 ---
