@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 I turn ideas into real, usable products.  
-At John Deere, I help ship internal tools used by **6,000+ people** across factories.  
+At John Deere, I help ship internal tools used by **6,000+ people** across multiple factories in North America and Australia.  
 I designed my own major because the catalog didn’t have what I needed, so I built it.
 
 When I’m not coding:
