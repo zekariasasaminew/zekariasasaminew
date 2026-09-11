@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zekarias</h1>
-<h3 align="center">Part Time Student Software Engineer @ John Deere | OSS Enthusiast</h3>
+<h3 align="center">student swe @ john deere | prev @ ey | OSS Enthusiast</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/800a5f97-53fc-4b6b-b3dc-6f864b688b3f" alt="Lionel Messi Soccer GIF by FC Barcelona">
